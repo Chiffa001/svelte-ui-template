@@ -1,6 +1,4 @@
-# rus-food
-
-Frontend-проект на `Svelte 5`, `TypeScript` и `Vite`.
+Frontend шаблон на `Svelte 5`, `TypeScript` и `Vite`.
 
 ## Технологии
 
@@ -12,7 +10,7 @@ Frontend-проект на `Svelte 5`, `TypeScript` и `Vite`.
 
 ## Требования
 
-- `Node.js` 20+
+- `Node.js` 24+
 - `npm`
 
 ## Установка
